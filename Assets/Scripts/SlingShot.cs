@@ -19,6 +19,10 @@ public class SlingShot : MonoBehaviour
     private int indexMousePos;
 
     // Use this for initialization
+
+
+
+    //this
     void Start()
     {
         this.lineRenderer = this.GetComponent<LineRenderer>();
